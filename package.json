@@ -1,0 +1,19 @@
+{
+  "name": "eslint-problem-matchers",
+  "version": "1.0.0",
+  "description": "GitHub Actions Problem Matchers for ESLint",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aergonaut/eslint-problem-matchers.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aergonaut/eslint-problem-matchers/issues"
+  },
+  "homepage": "https://github.com/aergonaut/eslint-problem-matchers#readme"
+}
